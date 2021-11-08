@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SoccerQuiz</string>
+    <string name="soccer_quiz">Футбольная викторина</string>
+    <string name="pass">Пасс!</string>
+    <string name="let_s_play">Давайте поиграем!</string>
+    <string name="question_1">Сколько игроков у каждой команды на поле, когда начинается футбольный матч?</string>
+    <string name="question_2">Какой должна быть окружность футбольного мяча 5-го размера (для взрослых)?</string>
+    <string name="question_3">Что дается игроку за очень серьезный личный фол на сопернике?</string>
+    <string name="question_4">Игра мячом больше всего известа в мире как?</string>
+    <string name="question_5">Если игрок находится в офсайде, какие действия предпринимает судья?</string>
+    <string name="question_6">Какой должна быть окружность футбольного мяча 5-го размера (для взрослых)?</string>
+    <string name="question_7">Исключая вратаря, какая часть тела не может коснуться мяча?</string>
+    <string name="question_8">Как это называется, когда игрок без мяча в атакующей команде находится за последним защитником или защитником?</string>
+    <string name="question_9">Окружность мяча не должна быть больше?</string>
+    <string name="question_10">Сколько минут отводится на обычную игру (без учета времени травмы или дополнительного времени)?</string>
+    <string name="question_11">Какое утверждение описывает правильное вбрасывание?</string>
+    <string name="question_12">Насколько велики официальные футбольные ворота?</string>
+</resources>

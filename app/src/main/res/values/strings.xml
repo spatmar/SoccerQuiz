@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SoccerQuiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="soccer_quiz">Soccer Quiz</string>
+    <string name="pass">Pass!</string>
+    <string name="let_s_play">Let\'s play!</string>
+    <string name="question_1">How many players does each team have on the pitch when a soccer match starts?</string>
+    <string name="question_2">What should be the circumference of a Size 5 (adult) football?</string>
+    <string name="question_3">What is given to a player for a very serious personal foul on an opponent?</string>
+    <string name="question_4">To most places in the world, soccer is known as what?</string>
+    <string name="question_5">Offside. If a player is offside, what action does the referee take?</string>
+    <string name="question_6">What should be the circumference of a Size 5 (adult) football?</string>
+    <string name="question_7">Excluding the goalkeeper, what part of the body cannot touch the ball?</string>
+    <string name="question_8">What is it called when a player, without the ball on the offensive team is behind the last defender, or fullback?</string>
+    <string name="question_9">The Ball. The circumference of the ball should not be greater than what?</string>
+    <string name="question_10">How many minutes are played in a regular game (without injury time or extra time)?</string>
+    <string name="question_11">What statement describes a proper throw-in?</string>
+    <string name="question_12">How big is a regulation official soccer goal?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
